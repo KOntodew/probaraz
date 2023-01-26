@@ -1,0 +1,19 @@
+ [
+	{
+		"text": "Jaka roślina jest najpopularniejsza?",
+		"choices": ["Storczyk", "Lawenda", "Monstera"],
+		"correct": "Storczyk"
+	},
+	{
+		"text": "Aloes to gatunek:",
+		"choices": ["z rodziny różowatych", "z rodziny sukulentów", "z rodziny iglastych"],
+		"correct": "z rodziny sukulentów"
+	},
+	{
+		"text": "Najczęstszy kolor róż to:",
+		"choices": ["Biały", "Różowy", "Czerwony"],
+		"correct": "Czerwony"
+	}
+
+	
+ ]

@@ -1,0 +1,19 @@
+[
+	{
+		"text": "Kiedy najlepiej nawozić rośliny?",
+		"choices": ["Latem", "Wiosną", "Zimą"],
+		"correct": "Wiosną"
+	},
+	{
+		"text": "Ile razy w tygodniu najlepiej podlewać rośliny?",
+		"choices": ["Dwa razy", "Raz", "Zależy od rośliny"],
+		"correct": "Zależy od rośliny"
+	},
+	{
+		"text": "Kiedy najlepiej przesadzić roślinę?",
+		"choices": ["Na wiosnę", "Gdy widzimy, że ma za mało miejsca", "Wszystkie odpowiedzi są poprawne"],
+		"correct": "Wszystkie odpowiedzi są poprawne"
+	}
+
+ ]
+ 
